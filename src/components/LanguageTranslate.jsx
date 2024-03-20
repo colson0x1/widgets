@@ -3,16 +3,48 @@ import Dropdown from './Dropdown';
 
 const options = [
   {
-    label: 'Afrikaans',
-    value: 'af',
+    label: 'Nepali',
+    value: 'ne',
   },
   {
-    label: 'Arabic',
-    value: 'ar',
+    label: 'Spanish',
+    value: 'es',
   },
   {
-    label: 'Hindi',
-    value: 'hi',
+    label: 'Russian',
+    value: 'ru',
+  },
+  {
+    label: 'German',
+    value: 'de',
+  },
+  {
+    label: 'French',
+    value: 'fr',
+  },
+  {
+    label: 'Chinese',
+    value: 'zh-CN',
+  },
+  {
+    label: 'Japanese',
+    value: 'ja',
+  },
+  {
+    label: 'Korean',
+    value: 'ko',
+  },
+  {
+    label: 'Latin',
+    value: 'la',
+  },
+  {
+    label: 'Turkish',
+    value: 'tr',
+  },
+  {
+    label: 'Greek',
+    value: 'el',
   },
 ];
 
