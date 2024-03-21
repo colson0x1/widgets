@@ -20,6 +20,10 @@ const options = [
     value: 'de',
   },
   {
+    label: 'Portuguese (Portugal, Brazil)',
+    value: 'pt',
+  },
+  {
     label: 'French',
     value: 'fr',
   },
@@ -28,12 +32,36 @@ const options = [
     value: 'zh-CN',
   },
   {
+    label: 'Sanskrit',
+    value: 'sa',
+  },
+  {
+    label: 'Hindi',
+    value: 'hi',
+  },
+  {
     label: 'Japanese',
     value: 'ja',
   },
   {
     label: 'Korean',
     value: 'ko',
+  },
+  {
+    label: 'Swedish',
+    value: 'sv',
+  },
+  {
+    label: 'Vietnamese',
+    value: 'vi',
+  },
+  {
+    label: 'Norwegian',
+    value: 'no',
+  },
+  {
+    label: 'Luxembourgish',
+    value: 'lb',
   },
   {
     label: 'Latin',
